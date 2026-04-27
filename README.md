@@ -46,17 +46,17 @@ This project presents the design and implementation of a low-power audio amplifi
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit.png)
 
 ---
 
 ## Breadboard Implementation
-![Breadboard Setup](images/breadboard.png)
+![Breadboard Setup](images/bb.png)
 
 ---
 
 ## Block Diagram Image
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/block.png)
 
 ---
 
